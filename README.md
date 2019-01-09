@@ -12,7 +12,7 @@ Ideal for automatically cleaning out that ever-growing Backlog.
 `bundle exec ./bin/trello-hammer clean [TRELLO_KEY] [TRELLO_TOKEN] [BOARD_ID]`
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/trello-hammer.
+Bug reports and pull requests are welcome on GitHub at https://github.com/allistera/trello-hammer.
 
 ## License
 
